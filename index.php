@@ -74,8 +74,5 @@ $conn->close();
   <button type="submit" style="background-color: blue; text-decoration: none; width:350px;">Submit</button>
 </form>
 <div>
-  <ul>
-    <li><a href="./classA/scoreDB">Score view</a></li>
-  </ul>
 </div>
 </div>
